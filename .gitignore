@@ -1,0 +1,21 @@
+# Never commit anything downloaded or built at install time.
+# (The repo ships only the script + docs; game files, installers, the Wine
+# engine, and the JRE are fetched by install.sh and live outside the repo.)
+
+# Built wrapper, if anyone points a build here
+*.app/
+
+# Downloaded archives / installers / engines / JRE
+*.rar
+*.tar.xz
+*.exe
+*.msi
+*.zip
+wswine.bundle/
+Template-*/
+Facade-Win*
+FacadeInstaller*
+OpenJDK*
+
+# Screenshot source scratch, macOS cruft
+.DS_Store
