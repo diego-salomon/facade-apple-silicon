@@ -2,7 +2,7 @@
 
 Play **Façade**, the 2005 interactive drama by Michael Mateas & Andrew Stern, on a modern Apple Silicon Mac with one command.
 
-![Façade running on Apple Silicon](docs/screenshot.png)
+![Grace and Trip in the apartment in Façade](docs/hero.png)
 
 Façade shipped for Windows XP and 32-bit Mac. The Mac build is dead on Apple
 Silicon (no 32-bit support since macOS 26), and the source was never released, so
