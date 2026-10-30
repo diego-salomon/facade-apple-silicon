@@ -114,7 +114,7 @@ fully fix it. The gameplay text where it matters is readable. Contributions welc
 
 ## Credits
 
-- **Façade**: Michael Mateas & Andrew Stern / [Procedural Arts](https://www.interactivestory.net).
+- **Façade**: Michael Mateas & Andrew Stern / [Procedural Arts](https://en.wikipedia.org/wiki/Fa%C3%A7ade_(video_game)).
 - **[Sikarugir](https://sikarugir.com)**: the Wineskin/Kegworks-lineage wrapper this builds on.
 - **[Wine](https://www.winehq.org) / [CrossOver](https://www.codeweavers.com)** (CodeWeavers): the Windows compatibility layer.
 - **[Eclipse Temurin](https://adoptium.net)**: the modern JRE that replaces Façade's 2004 Java.
